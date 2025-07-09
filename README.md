@@ -949,8 +949,7 @@ echo "Compute resource assessment completed."
 - Evaluate new instance types and services as they become available
 - Implement continuous optimization processes
 
-
-  The full library of Well Architected Framework guides are available here:
+The full library of Well Architected Framework guides are available here:
 
 1. **Cost Optimization** - [Cost Optimization Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-cost-pillar)
 2. **Reliability** - [Reliability Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-reliability-pillar)
